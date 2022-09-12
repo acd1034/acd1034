@@ -1,9 +1,11 @@
-<p align="center">
+## Hi there 👋
+<p>
   <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height="160px" src="https://github-readme-stats.vercel.app/api?username=acd1034&show_icons=ture&include_all_commits=true" />
+    <img height="170px" src="https://github-readme-stats.vercel.app/api?username=acd1034&show_icons=ture&include_all_commits=true" />
   </a>
+  &nbsp;
   <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height="160px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=acd1034" />
+    <img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=acd1034" />
   </a>
 </p>
 
