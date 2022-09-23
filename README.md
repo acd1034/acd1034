@@ -5,7 +5,7 @@
 - 🐳 A C++ enthusiast
 - 📝 Regularly write articles on [Zenn](https://zenn.dev/acd1034)
 
-## ![Zenn](icon/zenn-icon.png) Blog posts
+## ![Zenn](image/zenn-icon.png) Blog posts
 
 <p><a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="right" width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=acd1034" alt="GitHub Readme Stats Top-langs" />
