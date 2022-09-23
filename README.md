@@ -4,17 +4,20 @@
 
 - 🐳 A C++ enthusiast
 - 📝 Regularly write articles on [Zenn](https://zenn.dev/acd1034)
+<br>
+<br>
+<br>
 
-## ![Zenn](image/zenn-icon.png) Blog posts
+## ![Zenn](image/zenn-icon.png) Blog Posts
 
 <p><a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="right" width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=acd1034" alt="GitHub Readme Stats Top-langs" />
+  <img align="right" width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=acd1034&layout=compact" alt="GitHub Readme Stats Top-langs" />
 </a></p>
 
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
-## Languages and Tools:
+## Languages and Tools
 
 <p align="left">
 <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>
