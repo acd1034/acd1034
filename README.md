@@ -6,27 +6,24 @@
   <img align="right" width="49%" src="https://github-readme-stats.vercel.app/api?username=acd1034&show_icons=ture&include_all_commits=true" alt="GitHub Readme Stats" />
 </a></p>
 
-- ❤️ A C++ enthusiast
+- 🤩 A C++ enthusiast
 - 📝 Regularly write articles on [Zenn](https://zenn.dev/acd1034)
 
-<br>
-<br>
-<br>
-
 ## <img src="image/zenn.svg"/> Blog Posts
+
+<!-- BLOG-POST-LIST:START -->
+
+- [view の書き方を一歩ずつ](https://zenn.dev/acd1034/articles/220916-how-to-write-views)
+- [`__perfect_forward` の仕組みと使い方](https://zenn.dev/acd1034/articles/509b011bdf9917)
+<!-- BLOG-POST-LIST:END -->
+
+## 💓 OSS Contributions
 
 <p><a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="right" width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=acd1034&layout=compact" alt="GitHub Readme Stats Top-langs" />
 </a></p>
 
-<!-- BLOG-POST-LIST:START -->
-- [view の書き方を一歩ずつ](https://zenn.dev/acd1034/articles/220916-how-to-write-views)
-- [`__perfect_forward` の仕組みと使い方](https://zenn.dev/acd1034/articles/509b011bdf9917)
-<!-- BLOG-POST-LIST:END -->
-
-## 💎 OSS Contributions
-
-- <img src="image/git-merge.svg"/> [**Table is not formattable twice**](https://github.com/acd1034/cpp-rich/pull/35) acd1034/cpp-rich
+- <img src="image/git-merge.svg"/> [**The return type of functions that use hints should be consistent with std**](https://github.com/martinus/robin-hood-hashing/pull/138) - martinus/robin-hood-hashing
 
 ## 🔧 Languages and Tools
 
