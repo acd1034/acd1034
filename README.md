@@ -12,6 +12,7 @@
 ## <img src="image/zenn.svg"/> Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [なぜ ranges::accumulate は難しいのか](https://zenn.dev/acd1034/articles/221006-why-ranges-accumulate-is-difficult)
 - [view の書き方を一歩ずつ](https://zenn.dev/acd1034/articles/220916-how-to-write-views)
 - [`__perfect_forward` の仕組みと使い方](https://zenn.dev/acd1034/articles/509b011bdf9917)
 <!-- BLOG-POST-LIST:END -->
