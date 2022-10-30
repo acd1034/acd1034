@@ -7,11 +7,13 @@
 </a></p>
 
 - 🤩 A C++ enthusiast
-- 📝 Regularly write articles on [Zenn](https://zenn.dev/acd1034)
+- 📘 Regularly write articles on [Zenn](https://zenn.dev/acd1034)
+- 💼 [RESUME](https://www.resume.id/acd1034)
 
 ## <img src="image/zenn.svg"/> Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+
 - [なぜ ranges::accumulate は難しいのか](https://zenn.dev/acd1034/articles/221006-why-ranges-accumulate-is-difficult)
 - [view の書き方を一歩ずつ](https://zenn.dev/acd1034/articles/220916-how-to-write-views)
 - [`__perfect_forward` の仕組みと使い方](https://zenn.dev/acd1034/articles/509b011bdf9917)
@@ -23,6 +25,7 @@
   <img align="right" width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=acd1034&layout=compact" alt="GitHub Readme Stats Top-langs" />
 </a></p>
 
+- <img src="image/cpprefjp.svg" height="16"/> [**cpprefjp**](https://github.com/cpprefjp/site/commits?author=acd1034)
 - <img src="image/git-merge.svg"/> [**The return type of functions that use hints should be consistent with std**](https://github.com/martinus/robin-hood-hashing/pull/138) - martinus/robin-hood-hashing
 
 ## 🔧 Languages and Tools
