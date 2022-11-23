@@ -32,5 +32,5 @@
 ## 🔧 Languages and Tools
 
 <p><a href="https://github.com/tandpfun/skill-icons">
-  <img src="https://skillicons.dev/icons?i=c,cpp,cmake,haskell,rust,py,css,html,js,git,github,githubactions,gitlab,latex,linux,md,regex,vscode&theme=light&perline=12" alt="Skill Icons" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,cmake,haskell,rust,py,css,html,js,git,github,githubactions,gitlab,latex,linux,md,regex,vscode&theme=light&perline=9" alt="Skill Icons" />
 </a></p>
