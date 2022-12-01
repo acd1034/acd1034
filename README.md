@@ -8,8 +8,8 @@
 
 - 🤩 A C++ enthusiast
 - 📘 Regularly write articles on [Zenn](https://zenn.dev/acd1034)
-- 🔍 I made small Apps: Reference Table for [Condensed-Matter](https://acd1034.github.io/app/cond-mat/) and [C++](https://acd1034.github.io/app/cpp/)
-- 💼 [RESUME](https://www.resume.id/acd1034)
+- 🔍 I made small Apps:<br>Reference Table for [Condensed-Matter](https://acd1034.github.io/app/cond-mat/) and [C++](https://acd1034.github.io/app/cpp/)
+<!-- - 💼 [RESUME](https://www.resume.id/acd1034) -->
 
 ## <img src="image/zenn.svg"/> Blog Posts
 
