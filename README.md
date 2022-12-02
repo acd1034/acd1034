@@ -18,6 +18,7 @@
 </a></p>
 
 <!-- BLOG-POST-LIST:START -->
+- [std::optional のモナド的操作](https://zenn.dev/acd1034/articles/221118-monadic-operation-for-optional)
 - [メンバ関数の新しい書き方、あるいは Deducing this](https://zenn.dev/acd1034/articles/221117-deducing-this)
 - [なぜ ranges::accumulate は難しいのか](https://zenn.dev/acd1034/articles/221006-why-ranges-accumulate-is-difficult)
 - [view の書き方を一歩ずつ](https://zenn.dev/acd1034/articles/220916-how-to-write-views)
