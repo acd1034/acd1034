@@ -3,13 +3,12 @@
 ## 🐳 About
 
 <p><a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="right" width="49%" src="https://github-readme-stats.vercel.app/api?username=acd1034&show_icons=ture&count_private=true" alt="GitHub Readme Stats" />
+  <img align="right" width="49%" src="https://github-readme-stats.vercel.app/api?username=acd1034&show_icons=ture&include_all_commits=true" alt="GitHub Readme Stats" />
 </a></p>
 
 - 🤩 A C++ enthusiast
 - 📘 Regularly write articles on [Zenn](https://zenn.dev/acd1034)
 - 🔍 I made small Apps: Reference Table for [Condensed-Matter](https://acd1034.github.io/app/cond-mat/) and [C++](https://acd1034.github.io/app/cpp/)<br>
-<!-- - 💼 [RESUME](https://www.resume.id/acd1034) -->
 
 ## <img src="image/zenn.svg"/> Blog Posts
 
