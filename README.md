@@ -1,19 +1,24 @@
-![Cover Image](image/Cover%20w%20Miku.png)
+<h2 align="center">𝒲𝑒𝓁𝒸𝑜𝓂𝑒 𝓉𝑜 𝓂𝓎 𝓅𝓇𝑜𝒻𝒾𝓁𝑒</h2>
+
+<img align="center" src="image/Cover%20w%20Miku.png"/>
 
 ## 🐳 About
 
-<p><a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="right" width="49%" src="https://github-readme-stats.vercel.app/api?username=acd1034&show_icons=ture&include_all_commits=true" alt="GitHub Readme Stats" />
-</a></p>
+<p>
+  <a href="https://github.com/anuraghazra/github-readme-stats" target="_blank"><img width="49%" align="right" src="https://github-readme-stats.vercel.app/api?username=acd1034&hide_border=true&show_icons=ture&disable_animations=true" alt="GitHub Readme Stats"/></a>
+</p>
 
-- 🤩 A C++ enthusiast
-- 📘 Regularly write articles on [Zenn](https://zenn.dev/acd1034)
+- 💻 Software engineer and researcher
+- 📚 Interested in constructing effective, efficient, and<br>flexible deep learning compilers
+<br>
+<br>
+<br>
 
-## <img src="image/zenn.svg"/> Blog Posts
+## <a href="https://zenn.dev/acd1034" target="_blank"><img src="image/zenn.svg"/></a> Blog Posts
 
-<p><a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="right" width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=acd1034&layout=compact&langs_count=6" alt="GitHub Readme Stats Top-langs" />
-</a></p>
+<p>
+  <a href="https://github.com/anuraghazra/github-readme-stats" target="_blank"><img width="49%" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=acd1034&layout=compact&langs_count=6&hide_border=true&disable_animations=true&card_width=450px" alt="GitHub Readme Stats Top-langs"/></a>
+</p>
 
 <!-- BLOG-POST-LIST:START -->
 - [MLIR がもたらす新たな中間表現の可能性](https://zenn.dev/acd1034/articles/230423-mlir3vdt)
@@ -30,8 +35,8 @@
 - <img src="image/cpprefjp.svg" height="16"/> [**cpprefjp**](https://github.com/cpprefjp/site/commits?author=acd1034)
 - <img src="image/git-merge.svg"/> [**The return type of functions that use hints should be consistent with std**](https://github.com/martinus/robin-hood-hashing/pull/138) - martinus/robin-hood-hashing
 
-## 🔧 Languages and Tools
+## 🛠️ Key Skills
 
-<p><a href="https://github.com/tandpfun/skill-icons">
-  <img src="https://skillicons.dev/icons?i=c,cpp,cmake,haskell,rust,py,css,html,js,git,github,githubactions,gitlab,latex,linux,md,regex,vscode&theme=light&perline=9" alt="Skill Icons" />
-</a></p>
+<p>
+  <a href="https://github.com/tandpfun/skill-icons" target="_blank"><img src="https://skillicons.dev/icons?i=c,cpp,cmake,haskell,rust,py,pytorch,css,html,js,linux,ubuntu,docker,git,github,githubactions,gitlab,latex,notion,vscode&theme=light&perline=10" alt="Skill Icons" /></a>
+</p>
