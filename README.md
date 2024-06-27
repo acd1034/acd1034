@@ -36,5 +36,5 @@
 ## 🛠️ Key Skills
 
 <p>
-  <a href="https://github.com/tandpfun/skill-icons" target="_blank"><img src="https://skillicons.dev/icons?i=c,cpp,cmake,haskell,rust,py,pytorch,css,html,js,linux,ubuntu,docker,git,github,githubactions,gitlab,latex,notion,vscode&theme=light&perline=10" alt="Skill Icons" /></a>
+  <a href="https://github.com/tandpfun/skill-icons" target="_blank"><img src="https://skillicons.dev/icons?i=c,cpp,cmake,haskell,rust,py,pytorch,css,html,js,wasm,linux,ubuntu,docker,git,github,githubactions,gitlab,latex,notion,vscode&theme=light&perline=11" alt="Skill Icons" /></a>
 </p>
