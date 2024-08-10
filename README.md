@@ -21,12 +21,12 @@
 </p>
 
 <!-- BLOG-POST-LIST:START -->
+- 📌 [JavaScript エンジンの高速化](https://zenn.dev/acd1034/articles/240726-accelerating-javascript-engine)
 - 📘 [MLIR がもたらす新たな中間表現の可能性](https://zenn.dev/acd1034/articles/230423-mlir3vdt)
 - 📝 [深層学習コンパイラスタックと最適化](https://zenn.dev/acd1034/articles/230325-dl-compiler-overview)
-- 📘 [std::optional のモナド的操作](https://zenn.dev/acd1034/articles/221118-monadic-operation-for-optional)
-- 📝 [メンバ関数の新しい書き方、あるいは Deducing this](https://zenn.dev/acd1034/articles/221117-deducing-this)
-- 📘 [なぜ ranges::accumulate は難しいのか](https://zenn.dev/acd1034/articles/221006-why-ranges-accumulate-is-difficult)
-- 📝 [view の書き方を一歩ずつ](https://zenn.dev/acd1034/articles/220916-how-to-write-views)<!-- BLOG-POST-LIST:END -->
+- 📌 [std::optional のモナド的操作](https://zenn.dev/acd1034/articles/221118-monadic-operation-for-optional)
+- 📘 [メンバ関数の新しい書き方、あるいは Deducing this](https://zenn.dev/acd1034/articles/221117-deducing-this)
+- 📝 [なぜ ranges::accumulate は難しいのか](https://zenn.dev/acd1034/articles/221006-why-ranges-accumulate-is-difficult)<!-- BLOG-POST-LIST:END -->
 
 ## 💓 OSS Contributions
 
