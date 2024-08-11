@@ -5,7 +5,7 @@
 ## 🐳 About
 
 <p>
-  <a href="https://github.com/anuraghazra/github-readme-stats" target="_blank"><img width="49%" align="right" src="https://github-readme-stats.vercel.app/api?username=acd1034&hide_border=true&show_icons=ture&disable_animations=true&rank_icon=github" alt="GitHub Readme Stats"/></a>
+  <a href="https://github.com/anuraghazra/github-readme-stats" target="_blank"><img width="49%" align="right" src="https://github-readme-stats.vercel.app/api?username=acd1034&bg_color=ffffff&hide_border=true&show_icons=ture&disable_animations=true&rank_icon=github" alt="GitHub Readme Stats"/></a>
 </p>
 
 - 💻 Software engineer and researcher
@@ -17,7 +17,7 @@
 ## <a href="https://zenn.dev/acd1034" target="_blank"><img src="image/zenn.svg"/></a> Blog Posts
 
 <p>
-  <a href="https://github.com/anuraghazra/github-readme-stats" target="_blank"><img width="49%" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=acd1034&layout=compact&langs_count=6&hide_border=true&disable_animations=true&card_width=450px" alt="GitHub Readme Stats Top-langs"/></a>
+  <a href="https://github.com/anuraghazra/github-readme-stats" target="_blank"><img width="49%" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=acd1034&layout=compact&langs_count=6&bg_color=ffffff&hide_border=true&disable_animations=true&card_width=400" alt="GitHub Readme Stats Top-langs"/></a>
 </p>
 
 <!-- BLOG-POST-LIST:START -->
