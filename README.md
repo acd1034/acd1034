@@ -32,6 +32,7 @@
 
 - <img src="image/cpprefjp.svg" height="16"/> [**cpprefjp**](https://github.com/cpprefjp/site/commits?author=acd1034)
 - <img src="image/git-merge.svg"/> [**The return type of functions that use hints should be consistent with std**](https://github.com/martinus/robin-hood-hashing/pull/138) - martinus/robin-hood-hashing
+- <img src="image/git-pull-request.svg"/> [**Fix proxy object and customization point**](https://github.com/yosh-matsuda/gpu-ptr/pull/1) - yosh-matsuda/gpu-ptr
 
 ## 🛠️ Key Skills
 
