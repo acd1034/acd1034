@@ -8,8 +8,8 @@
   <a href="https://github.com/anuraghazra/github-readme-stats" target="_blank"><img width="49%" align="right" src="https://github-readme-stats.vercel.app/api?username=acd1034&bg_color=ffffff&hide_border=true&show_icons=ture&disable_animations=true&rank_icon=github" alt="GitHub Readme Stats"/></a>
 </p>
 
-- 💻 Software engineer and researcher
-- 📚 Interested in constructing effective, efficient, and<br>flexible deep learning compilers
+- 🔬 PhD student majoring in physics
+<br>
 <br>
 <br>
 <br>
