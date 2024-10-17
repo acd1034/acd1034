@@ -9,6 +9,7 @@
 </p>
 
 - 🔬 PhD student majoring in physics
+- 📚 Interested in C++ and compilers
 <br>
 <br>
 <br>
